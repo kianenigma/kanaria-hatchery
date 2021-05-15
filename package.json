@@ -29,10 +29,9 @@
 		"yargs": "^17.0.1"
 	},
 	"bin": {
-		"kanaria-hatchery": "build/index.js"
+		"kanaria-hatchery": "bin/index.js"
 	},
 	"files": [
-		"build",
 		"src"
 	]
 }
