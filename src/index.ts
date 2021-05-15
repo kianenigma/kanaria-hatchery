@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { ApiPromise, WsProvider } from "@polkadot/api";
 import BN from "bn.js";
 import { Keyring, } from "@polkadot/keyring"
