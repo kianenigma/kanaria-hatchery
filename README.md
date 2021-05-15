@@ -1,6 +1,6 @@
 # Kanaria Hatchery
 
-A sybil-like took that sends an array of emojis to [Kanaria](https://kanaria.rmrk.app/) eggs from
+A sybil-like tool that sends an array of emojis to [Kanaria](https://kanaria.rmrk.app/) eggs from
 different randomly generated accounts.
 
 ### Disclaimer
