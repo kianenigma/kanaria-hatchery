@@ -49,6 +49,14 @@ which your `transfer` is included is printed, so you can see the `DustLost` even
 
 ## Usage
 
+Install via:
+
+```
+npm install -g kanaria-hatchery
+```
+
+or clone this project and `yarn run start`.
+
 ```
 Options:
       --help           Show help                                       [boolean]
