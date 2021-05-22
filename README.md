@@ -79,6 +79,8 @@ Options:
                                                              [string] [required]
 ```
 
+> To run a local node (westend or kusama to support unsafer RPCs, you should run it with `--rpc-methods Unsafe`).
+
 So overall, you'd always do:
 
 ```
